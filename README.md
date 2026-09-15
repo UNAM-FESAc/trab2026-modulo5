@@ -25,22 +25,14 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-<!-- [![DOI](https://zenodo.org/badge/1170277309.svg)](https://doi.org/10.5281/zenodo.18838613) -->
-
+> Aprende Python y análisis de datos **sin instalar nada** —
+![Visitas al repositorio](https://visitor-badge.laobi.icu/badge?page_id=jaorduz.trab2026-modulo5)
 
 ---
 
 <p style="text-align:right; font-family:verdana;"><a href="mywebsiteBDG" style="color:#3364ff; text-decoration:none;">@Javier Orduz</a></p>    
 ---
 
----
-
-
-> Aprende Python y análisis de datos **sin instalar nada** — todo en Google Colab
-![Visitas al repositorio](https://visitor-badge.laobi.icu/badge?page_id=jaorduz.trab2026-modulo5)
-
-> El contador registra las cargas de este README mediante el badge. Para las
-> estadísticas oficiales de GitHub, consulta **Insights → Traffic** del repositorio.
 
 ---
 
