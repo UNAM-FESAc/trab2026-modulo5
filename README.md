@@ -21,9 +21,9 @@
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.11-blue)
+![Python](https://img.shields.io/badge/python-3.7+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-stable-success)
+![Status](https://img.shields.io/badge/status-active-success)
 
 <!-- [![DOI](https://zenodo.org/badge/1170277309.svg)](https://doi.org/10.5281/zenodo.18838613) -->
 
@@ -37,11 +37,10 @@
 
 
 > Aprende Python y análisis de datos **sin instalar nada** — todo en Google Colab
+![Visitas al repositorio](https://visitor-badge.laobi.icu/badge?page_id=jaorduz.trab2026-modulo5)
 
-![Python](https://img.shields.io/badge/python-3.7+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-active-success)
-![Students](https://img.shields.io/badge/para-500+-students-brightgreen)
+> El contador registra las cargas de este README mediante el badge. Para las
+> estadísticas oficiales de GitHub, consulta **Insights → Traffic** del repositorio.
 
 ---
 
