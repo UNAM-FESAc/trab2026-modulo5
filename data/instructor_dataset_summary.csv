@@ -1,0 +1,11 @@
+team,file,n,mean_change,mean_change_A,mean_change_B,corr_hours_change
+1,activity_data_team_01.csv,158,5.14,4.78,5.49,0.57
+2,activity_data_team_02.csv,169,2.45,0.84,4.48,0.19
+3,activity_data_team_03.csv,177,2.83,2.52,3.16,-0.41
+4,activity_data_team_04.csv,186,3.83,3.67,4.02,-0.08
+5,activity_data_team_05.csv,195,6.1,6.94,5.18,0.68
+6,activity_data_team_06.csv,204,2.76,2.76,2.76,0.37
+7,activity_data_team_07.csv,213,3.72,0.97,6.12,0.05
+8,activity_data_team_08.csv,222,2.89,2.15,3.71,-0.49
+9,activity_data_team_09.csv,234,3.55,2.34,4.93,0.46
+10,activity_data_team_10.csv,247,3.56,3.71,3.39,0.25
