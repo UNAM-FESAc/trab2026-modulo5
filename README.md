@@ -1,4 +1,4 @@
-# ASMS — Advanced System for Meetings Support
+# 🔍 Módulo 5: Herramientas de Investigación
 ### Javier Orduz
 
 
@@ -35,7 +35,6 @@
 
 ---
 
-# 🔍 Módulo 5: Herramientas de Investigación
 
 > Aprende Python y análisis de datos **sin instalar nada** — todo en Google Colab
 
