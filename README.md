@@ -42,9 +42,9 @@
 
 | 📓 Cuaderno | Descripción | 🚀 Abre en Colab |
 |-----------|-----------|-----------------|
-| **00_inicio.ipynb** | Conceptos básicos de Python | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/notebooks/00_inicio.ipynb) |
-| **01_ejemplos.ipynb** | Ejemplos prácticos con Pandas | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/notebooks/01_ejemplos.ipynb) |
-| **02_ejercicios.ipynb** | Ejercicios progresivos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/notebooks/02_ejercicios.ipynb) |
+| **00_helloWorld.ipynb** | Conceptos básicos de Python | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/00_helloWorld.ipynb) |
+| **01_ejemplos.ipynb** | Ejemplos prácticos con Pandas | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_ejemplos.ipynb) |
+| **03_ejercicios.ipynb** | Ejercicios progresivos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/DIY/03_ejercicios.ipynb) |
 
 > Los enlaces abren la versión pública del repositorio de `UNAM-FESAc` en Google Colab.
 
@@ -52,8 +52,8 @@
 
 | Actividad | Tipo | 🚀 Abre en Colab |
 |-----------|------|-----------------|
-| **01_workshop.ipynb** | Práctica no calificada | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/notebooks/no_graded/01_workshop.ipynb) |
-| **02_activity.ipynb** | Práctica no calificada | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/notebooks/no_graded/02_activity.ipynb) |
+| **01_workshop.ipynb** | Práctica no calificada | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_workshop.ipynb) |
+| **02_activity.ipynb** | Práctica no calificada | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/DIY/02_activity.ipynb) |
 
 ---
 
@@ -110,14 +110,15 @@ Recursos: recursos/README.md
 
 | Carpeta | Descripción |
 |---------|-------------|
-| **notebooks/** | 3 cuadernos interactivos listos para Colab |
+| **NoGraded/** | Cuadernos y talleres sin calificación |
 | **data/** | Datos de ejemplo (investigacion_datos.csv) |
 | **recursos/** | Guías de referencia y materiales de apoyo |
 
 ### Actividades
 
-- `notebooks/no_graded/`: actividades `EST_NGR`, prácticas sin calificación.
-- `notebooks/graded/`: actividades calificadas, publicadas sin soluciones.
+- `NoGraded/`: talleres y actividades sin calificación.
+- `NoGraded/DIY/`: actividades prácticas adicionales.
+- `graded/`: actividades calificadas, publicadas sin soluciones.
 
 La preparación y calificación se realiza en el repositorio privado
 `CdD0503-instructor`. Nunca se publican allí las soluciones ni las entregas.
@@ -247,7 +248,7 @@ Si deseas usar este módulo con tus estudiantes:
 
 ## 📢 ¿Necesitas ayuda?
 
-1. Lee el README.md en la carpeta `notebooks/` (enlaces directos a Colab)
+1. Lee el README.md en las carpetas `NoGraded/` y `graded/` (enlaces directos a Colab)
 2. Consulta `recursos/README.md` para guías de referencia
 3. Busca tu error en documentación online
 4. Pregunta a compañeros o al instructor
