@@ -35,15 +35,15 @@
 
 ---
 
-# �📓 Cuadernos Interactivos - Google Colab
+# Cuadernos Interactivos - Google Colab y Drive
 
-Aquí puedes acceder a los tres cuadernos del Módulo 5. **Haz clic en cualquier enlace para abrirlo en Google Colab.**
+Aquí puedes acceder a los cuadernos no calificados del Módulo 5. **Haz clic en cualquier enlace para abrirlo en Google Colab.** Después usa **Archivo → Guardar una copia en Drive** para trabajar en tu propia copia.
 
 ---
 
 ## 🚀 Acceso Rápido
 
-### 1️⃣ Cuaderno 1: Conceptos Básicos de Python
+### 1. Cuaderno: Hello World
 
 **Duración**: 45 minutos | **Nivel**: Principiante ⭐
 
@@ -56,16 +56,16 @@ En este cuaderno aprenderás:
 
 **📌 Haz clic aquí para abrir en Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/00_inicio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/00_helloWorld.ipynb)
 
 O copia este enlace en tu navegador:
 ```
-https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/00_inicio.ipynb
+https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/00_helloWorld.ipynb
 ```
 
 ---
 
-### 2️⃣ Cuaderno 2: Ejemplos Prácticos con Pandas
+### 2. Cuaderno: Workshop
 
 **Duración**: 60 minutos | **Nivel**: Intermedio ⭐⭐
 
@@ -78,16 +78,16 @@ En este cuaderno aprenderás:
 
 **📌 Haz clic aquí para abrir en Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/01_ejemplos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_workshop.ipynb)
 
 O copia este enlace:
 ```
-https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/01_ejemplos.ipynb
+https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_workshop.ipynb
 ```
 
 ---
 
-### 3️⃣ Cuaderno 3: Ejercicios Progresivos
+### 3. Cuaderno: Workshop guiado
 
 **Duración**: 90 minutos | **Nivel**: Básico a Avanzado ⭐⭐⭐
 
@@ -100,11 +100,11 @@ En este cuaderno encontrarás:
 
 **📌 Haz clic aquí para abrir en Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/02_ejercicios.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/02_guided_workshop.ipynb)
 
 O copia este enlace:
 ```
-https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/02_ejercicios.ipynb
+https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/02_guided_workshop.ipynb
 ```
 
 ---
@@ -113,9 +113,10 @@ https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/m
 
 | # | Cuaderno | Tema | Duración | Colab |
 |---|----------|------|----------|-------|
-| 1 | 00_inicio.ipynb | Python Básico | 45 min | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/00_inicio.ipynb) |
-| 2 | 01_ejemplos.ipynb | Ejemplos Prácticos | 60 min | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/01_ejemplos.ipynb) |
-| 3 | 02_ejercicios.ipynb | Ejercicios | 90 min | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{{GITHUB_USER}}/trab2026-modulo5/blob/main/notebooks/02_ejercicios.ipynb) |
+| 1 | 00_helloWorld.ipynb | Python básico | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/00_helloWorld.ipynb) |
+| 2 | 01_workshop.ipynb | Taller práctico | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_workshop.ipynb) |
+| 3 | 02_guided_workshop.ipynb | Taller guiado | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/02_guided_workshop.ipynb) |
+| 4 | 03_ejemplos.ipynb | Ejemplos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/03_ejemplos.ipynb) |
 
 ---
 
@@ -225,19 +226,13 @@ No saltes pasos, cada cuaderno construye sobre el anterior.
 
 ## ⚠️ IMPORTANTE
 
-**Antes de empezar, reemplaza `{{GITHUB_USER}}` en los enlaces:**
+**Enlaces actualizados para la organización correcta:**
 
-Cambiar:
 ```
-github/{{GITHUB_USER}}/trab2026-modulo5
-```
-
-Por:
-```
-github/tu_usuario_github/trab2026-modulo5
+github/UNAM-FESAc/trab2026-modulo5
 ```
 
-Si alguien compartió esto contigo, pídele que actualice los enlaces con su usuario.
+Estos enlaces apuntan al repositorio público oficial de la organización.
 
 ---
 

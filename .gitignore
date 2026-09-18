@@ -1,0 +1,7 @@
+# Instructor-only datasets
+/data/base_final.csv
+/data/instructor_dataset_summary.csv
+
+# Local and macOS files
+.DS_Store
+.ipynb_checkpoints/
