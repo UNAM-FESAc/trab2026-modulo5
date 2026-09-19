@@ -57,17 +57,6 @@
 
 ---
 
-### Actividades calificadas
-
-| Actividad | Colab |
-|---|---|
-| `graded/01_activity.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/01_activity.ipynb) |
-| `graded/02_exploracion.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/02_exploracion.ipynb) |
-| `graded/03_relaciones.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/03_relaciones.ipynb) |
-| `graded/04_relaciones.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/04_relaciones.ipynb) |
-
----
-
 ## ✨ ¿Por qué Google Colab?
 
 ✅ **Sin instalación** - Todo funciona en tu navegador  
@@ -91,7 +80,7 @@
 ## 📖 Estructura del Curso
 
 ```
-Cuaderno 1: NoGraded/DIY/01_inicio.ipynb (45 min)
+Cuaderno 1: 00_inicio.ipynb (45 min)
   → Python básico: variables, tipos, operaciones
   → Listas, bucles, condicionales, funciones
 
@@ -104,7 +93,7 @@ Cuaderno 2: 01_ejemplos.ipynb (60 min)
 
     ↓
 
-Cuaderno 3: NoGraded/DIY/03_ejercicios.ipynb (90 min)
+Cuaderno 3: 02_ejercicios.ipynb (90 min)
   → 14 ejercicios (básico, intermedio, avanzado)
   → Soluciones incluidas
   → Desafíos opcionales
@@ -186,7 +175,7 @@ R: Parcialmente. Necesitas conexión para abrir Colab, pero puedes guardar local
 
 ## 💡 ¿Qué incluye cada cuaderno?
 
-### 📓 Cuaderno 1: Conceptos Básicos (NoGraded/DIY/01_inicio.ipynb)
+### 📓 Cuaderno 1: Conceptos Básicos (00_inicio.ipynb)
 - Tu primer código en Python
 - Variables y tipos de datos
 - Operaciones matemáticas
@@ -202,7 +191,7 @@ R: Parcialmente. Necesitas conexión para abrir Colab, pero puedes guardar local
 - Visualizar con gráficos
 - **Duración**: 60 minutos
 
-### 💪 Cuaderno 3: Ejercicios (NoGraded/DIY/03_ejercicios.ipynb)
+### 💪 Cuaderno 3: Ejercicios (02_ejercicios.ipynb)
 - 4 ejercicios básicos
 - 5 ejercicios intermedios
 - 5 ejercicios avanzados
