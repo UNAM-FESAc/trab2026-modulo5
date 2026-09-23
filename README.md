@@ -284,3 +284,25 @@ No esperes más, el aprendizaje te espera.
   <strong>Hecho con ❤️ para educación multidisciplinaria</strong><br>
   Módulo 5 - Septiembre 2026
 </p>
+
+---
+## Referencias y material adicional
+
+1. [TCC](https://tcc.uniupo.it/educational-resources)
+
+2. [Repositorio](https://harvard-iacs.github.io/2019-CS109A/)
+
+3. [Statistics Book](https://openstax.org/books/introductory-statistics-2e/pages/1-introduction)
+
+4. [Open Intro Book](https://www.openintro.org/book/os/)
+
+5. [Numpy](https://numpy.org/)
+
+6. [Matplolib](https://matplotlib.org/stable/api/pyplot_summary.html)
+
+7. [Pandas](https://pandas.pydata.org/docs/)
+
+8. [Seaborn](https://seaborn.pydata.org/)
+
+
+
