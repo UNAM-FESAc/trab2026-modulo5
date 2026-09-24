@@ -1,0 +1,50 @@
+
+\documentclass[11pt]{letter}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\RequirePackage[spanish,main=english]{babel}
+\newif\ifotherlang
+\otherlangfalse % 
+
+\signature{Your Name}
+\address{Your Name\\Your Institution\\\href{mailto:your.email@example.edu}{your.email@example.edu}}
+
+\begin{document}
+
+\ifotherlang
+\begin{letter}{Selection Committee\\Department or Institution}
+\opening{Dear Members of the Selection Committee,}
+I am writing to apply for the \textbf{[position / program]} at \textbf{[institution]}.
+My research focuses on \textbf{[area]}, with experience in \textbf{[relevant strengths]}.
+
+In my current/recent role at \textbf{[institution]}, I have \textbf{[specific contribution]}.
+This experience aligns with \textbf{[specific aspect of the opportunity]}.
+
+I am particularly interested because \textbf{[specific reason]}. I would welcome the opportunity
+to contribute through \textbf{[research / teaching / collaboration]}.
+
+Thank you for considering my application.
+\closing{Sincerely,}
+\end{letter}
+
+\else
+%Spanish
+\begin{letter}{Comite\\Institucion}
+\opening{Miembros,}
+Estoy aplicando \textbf{[position / program]} al \textbf{[institution]}.
+Mi investigacion es sobre.. \textbf{[area]}, con experiencia en \textbf{[relevant strengths]}.
+
+En mi actual \textbf{[institution]}, tengo \textbf{[specific contribution]}.
+Esta experiencia se alinean... \textbf{[specific aspect of the opportunity]}.
+
+Particularmente estoy interesado \textbf{[specific reason]}. Me gustaría contribuir... \textbf{[research / teaching / collaboration]}.
+
+Gracias totales!
+\closing{Sincerely,}
+\end{letter}
+\fi
+
+
+\end{document}

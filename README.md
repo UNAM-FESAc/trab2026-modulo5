@@ -1,65 +1,117 @@
-# 🔍 Módulo 5: Herramientas de Investigación
+# 🔬 Módulo 5: Herramientas Computacionales y Programación para Investigadores
+
 ### Javier Orduz
 
-
-[mywebsiteBDG]:https://img.shields.io/badge/website-jaorduz.github.io-0abeeb?style=plastic
+[mywebsiteBDG]: https://img.shields.io/badge/website-jaorduz.github.io-0abeeb?style=plastic
 [mywebsite]: https://jaorduz.github.io/
 
 [mygithubBDG-jaorduz]: https://img.shields.io/badge/jaorduz-repos-blue?logo=github&label=jaorduz&style=plastic
 [mygithub-jaorduz]: https://github.com/jaorduz/
 
-[mygithubBDG-jaorduc]: https://img.shields.io/badge/jaorduc-repos-blue?logo=github&label=jaorduc&style=plastic 
+[mygithubBDG-jaorduc]: https://img.shields.io/badge/jaorduc-repos-blue?logo=github&label=jaorduc&style=plastic
 [mygithub-jaorduc]: https://github.com/jaorduc/
 
 [myXprofileBDG]: https://img.shields.io/static/v1?label=Follow&message=jaorduc&color=2ea44f&style=plastic&logo=X&logoColor=black
-[myXprofile]:https://twitter.com/jaorduc
-
+[myXprofile]: https://twitter.com/jaorduc
 
 [![website - jaorduz.github.io][mywebsiteBDG]][mywebsite]
 [![Github][mygithubBDG-jaorduz]][mygithub-jaorduz]
 [![Github][mygithubBDG-jaorduc]][mygithub-jaorduc]
 [![Follow @jaorduc][myXprofileBDG]][myXprofile]
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.7+-blue)
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
+![Python](https://img.shields.io/badge/Python-Colab-blue)
+![LaTeX](https://img.shields.io/badge/LaTeX-Overleaf-47A141)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 
-> Aprende Python y análisis de datos **sin instalar nada** —
-![Visitas al repositorio](https://visitor-badge.laobi.icu/badge?page_id=jaorduz.trab2026-modulo5)
+> **Herramientas computacionales para organizar, analizar, automatizar, documentar, colaborar y comunicar investigación.**
+
+![Visitas al repositorio](https://visitor-badge.laobi.icu/badge?page_id=UNAM-FESAc.trab2026-modulo5)
 
 ---
 
-<p style="text-align:right; font-family:verdana;"><a href="mywebsiteBDG" style="color:#3364ff; text-decoration:none;">@Javier Orduz</a></p>    
+## 🎯 Propósito del módulo
+
+Este repositorio contiene los materiales prácticos del **Módulo 5: Herramientas Computacionales y Programación para Investigadores**.
+
+El módulo está diseñado para profesores, investigadores y participantes de distintas disciplinas, incluyendo personas con poca o ninguna experiencia previa en programación.
+
+El objetivo **no es convertir a los participantes en programadores**, sino mostrar cómo diferentes herramientas computacionales pueden apoyar procesos reales de investigación:
+
+- organizar información;
+- analizar y visualizar datos;
+- automatizar tareas;
+- construir flujos reproducibles;
+- documentar procedimientos;
+- preparar documentos académicos;
+- colaborar con otros investigadores;
+- comunicar resultados científicos.
+
 ---
 
+# 🚀 Elige una ruta
+
+El repositorio contiene dos rutas complementarias:
+
+| 📊 Data Science & Python | 📝 LaTeX & Academic Writing |
+|---|---|
+| Google Colab | Overleaf |
+| Python | LaTeX |
+| Pandas | Artículos científicos |
+| Visualización | CV académico |
+| Análisis de datos | Cover letters |
+| Notebooks reproducibles | Pósters científicos |
+| Actividades prácticas | Escritura colaborativa |
+
+No necesitas completar ambas rutas en orden.
 
 ---
 
-## 🚀 **ACCESO RÁPIDO A GOOGLE COLAB**
+# 📊 Ruta 1 — Data Science, Python & Colab
 
-### Haz clic en cualquier botón para abrir en Colab (¡sin instalar nada!)
+Esta ruta introduce programación y análisis computacional aplicado a investigación.
 
-| 📓 Cuaderno | Descripción | 🚀 Abre en Colab |
-|-----------|-----------|-----------------|
+Trabajaremos principalmente con:
+
+- Python;
+- Google Colab;
+- Pandas;
+- Matplotlib;
+- notebooks interactivos;
+- datos de investigación;
+- análisis reproducible.
+
+> **No necesitas instalar Python.** Los notebooks pueden ejecutarse directamente desde Google Colab.
+
+---
+
+## 🚀 Acceso rápido a Google Colab
+
+### Cuadernos introductorios
+
+| 📓 Cuaderno | Descripción | 🚀 Abrir en Colab |
+|---|---|---|
 | **00_helloWorld.ipynb** | Conceptos básicos de Python | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/00_helloWorld.ipynb) |
 | **01_ejemplos.ipynb** | Ejemplos prácticos con Pandas | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_ejemplos.ipynb) |
 | **03_ejercicios.ipynb** | Ejercicios progresivos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/DIY/03_ejercicios.ipynb) |
 
-> Los enlaces abren la versión pública del repositorio de `UNAM-FESAc` en Google Colab.
+> Los enlaces abren la versión pública del repositorio de `UNAM-FESAc` directamente en Google Colab.
 
-### Actividades del taller
+---
 
-| Actividad | Tipo | 🚀 Abre en Colab |
-|-----------|------|-----------------|
+## 🧪 Actividades del taller
+
+| Actividad | Tipo | 🚀 Abrir en Colab |
+|---|---|---|
 | **01_workshop.ipynb** | Práctica no calificada | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/01_workshop.ipynb) |
 | **02_activity.ipynb** | Práctica no calificada | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/NoGraded/DIY/02_activity.ipynb) |
 
 ---
 
-### Actividades calificadas
+## 📝 Actividades calificadas
 
-| Actividad | Colab |
+| Actividad | 🚀 Abrir en Colab |
 |---|---|
 | `graded/01_activity.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/01_activity.ipynb) |
 | `graded/02_exploracion.ipynb` | [Abrir en Colab](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/02_exploracion.ipynb) |
@@ -70,239 +122,452 @@
 
 ## ✨ ¿Por qué Google Colab?
 
-✅ **Sin instalación** - Todo funciona en tu navegador  
-✅ **Gratis** - Solo necesitas una cuenta Google  
-✅ **Guardado automático** - Tus cambios se guardan en Drive  
-✅ **Desde cualquier dispositivo** - Computadora, tablet, etc.  
-✅ **Colaborativo** - Comparte links con compañeros  
+- ✅ **Sin instalación** — funciona desde el navegador.
+- ✅ **Accesible** — solo necesitas una cuenta de Google.
+- ✅ **Interactivo** — combina texto, código, resultados y figuras.
+- ✅ **Colaborativo** — permite compartir notebooks.
+- ✅ **Portable** — puedes trabajar desde diferentes computadoras.
+- ✅ **Reproducible** — código, análisis y resultados pueden mantenerse juntos.
 
 ---
 
-## 📚 ¿Qué Apenderás?
+## 📚 ¿Qué aprenderás?
 
-- ✅ **Conceptos básicos de Python** - Variables, operaciones, listas, bucles, funciones
-- ✅ **Análisis de datos** - Cargar, explorar y filtrar datos con Pandas
-- ✅ **Visualización** - Crear gráficos con Matplotlib
-- ✅ **Práctica real** - 14 ejercicios progresivos
-- ✅ **Recursos** - Guías de referencia y tutoriales
+- conceptos básicos de Python;
+- variables, operaciones, listas, bucles y funciones;
+- carga y exploración de datos;
+- análisis básico con Pandas;
+- filtrado y agrupación;
+- visualización con Matplotlib;
+- interpretación de resultados;
+- uso de notebooks como documentos computacionales;
+- principios básicos de análisis reproducible.
 
 ---
 
-## 📖 Estructura del Curso
+## 📖 Flujo sugerido
 
-```
-Cuaderno 1: NoGraded/DIY/01_inicio.ipynb (45 min)
-  → Python básico: variables, tipos, operaciones
-  → Listas, bucles, condicionales, funciones
-
-    ↓
-
-Cuaderno 2: 01_ejemplos.ipynb (60 min)
-  → Cargar y explorar datos
-  → Estadísticas, filtrado, agrupación
-  → Visualización básica
-
-    ↓
-
-Cuaderno 3: NoGraded/DIY/03_ejercicios.ipynb (90 min)
-  → 14 ejercicios (básico, intermedio, avanzado)
-  → Soluciones incluidas
-  → Desafíos opcionales
-
-Recursos: recursos/README.md
-  → Guía rápida de referencia
-  → Errores comunes
-  → Enlaces útiles
+```text
+Python básico
+     ↓
+Cargar datos
+     ↓
+Explorar
+     ↓
+Limpiar
+     ↓
+Analizar
+     ↓
+Visualizar
+     ↓
+Interpretar
+     ↓
+Comunicar evidencia
 ```
 
----
+### Cuaderno 1
 
-## 📂 Contenidos
+`NoGraded/DIY/01_inicio.ipynb`
 
-| Carpeta | Descripción |
-|---------|-------------|
-| **NoGraded/** | Cuadernos y talleres sin calificación |
-| **data/** | Datos de ejemplo (investigacion_datos.csv) |
-| **recursos/** | Guías de referencia y materiales de apoyo |
+Introducción a:
 
-### Actividades
+- variables;
+- tipos;
+- operaciones;
+- listas;
+- bucles;
+- condicionales;
+- funciones.
 
-- `NoGraded/`: talleres y actividades sin calificación.
-- `NoGraded/DIY/`: actividades prácticas adicionales.
-- `graded/`: actividades calificadas, publicadas sin soluciones.
+### Cuaderno 2
 
-La preparación y calificación se realiza en el repositorio privado
-`CdD0503-instructor`. Nunca se publican allí las soluciones ni las entregas.
+`NoGraded/01_ejemplos.ipynb`
 
----
+Introducción a:
 
-## 🎯 3 Pasos Simples para Comenzar
+- carga de datos;
+- exploración;
+- estadísticas;
+- filtrado;
+- agrupación;
+- visualización.
 
-### Paso 1: Haz clic en "Open In Colab" 🖱️
-Usa la tabla arriba para abrir cualquier cuaderno
+### Cuaderno 3
 
-### Paso 2: Se abre automáticamente en Colab 🌐
-No necesitas instalar nada
+`NoGraded/DIY/03_ejercicios.ipynb`
 
-### Paso 3: Guarda tu copia (opcional) 💾
-Archivo → Guardar una copia en Drive
-
-**¡Eso es todo! Ahora puedes aprender.** 🚀
-
----
-
-## ❓ Preguntas Frecuentes
-
-**P: ¿Necesito tener experiencia en programación?**  
-R: No, este curso es para principiantes. Empezamos desde cero.
-
-**P: ¿Cuánto tiempo tarda?**  
-R: ~2-3 horas total (puedes ir a tu ritmo)
-
-**P: ¿Es realmente gratis?**  
-R: Sí, solo necesitas una cuenta Google (Gmail o similar)
-
-**P: ¿Se guardará mi trabajo?**  
-R: Sí, si guardas una copia en Drive. De lo contrario, desaparece al cerrar.
-
-**P: ¿Puedo descargar los cuadernos?**  
-R: Sí, en Colab: Archivo → Descargar
-
-**P: ¿Puedo trabajar sin conexión?**  
-R: Parcialmente. Necesitas conexión para abrir Colab, pero puedes guardar localmente.
+Ejercicios progresivos para practicar los conceptos.
 
 ---
 
-## 🔗 Enlaces Útiles
+# 📝 Ruta 2 — LaTeX, Overleaf & Academic Writing
 
-| Recurso | Enlace |
-|---------|--------|
-| **Este repositorio** | https://github.com/UNAM-FESAc/trab2026-modulo5 |
-| **Google Colab** | https://colab.research.google.com |
-| **Documentación Pandas** | https://pandas.pydata.org/ |
-| **Python.org** | https://www.python.org/
+Esta ruta introduce herramientas para preparar documentos científicos y académicos profesionales utilizando **LaTeX y Overleaf**.
 
----
+> **No necesitas instalar LaTeX.**
 
-## 💡 ¿Qué incluye cada cuaderno?
+Los ejemplos pueden abrirse y compilarse utilizando Overleaf desde el navegador.
 
-### 📓 Cuaderno 1: Conceptos Básicos (NoGraded/DIY/01_inicio.ipynb)
-- Tu primer código en Python
-- Variables y tipos de datos
-- Operaciones matemáticas
-- Listas y bucles
-- Condicionales y funciones
-- **Duración**: 45 minutos
-
-### 📊 Cuaderno 2: Ejemplos Prácticos (01_ejemplos.ipynb)
-- Cargar datos con Pandas
-- Explorar y entender datos
-- Estadísticas básicas
-- Filtrar y agrupar datos
-- Visualizar con gráficos
-- **Duración**: 60 minutos
-
-### 💪 Cuaderno 3: Ejercicios (NoGraded/DIY/03_ejercicios.ipynb)
-- 4 ejercicios básicos
-- 5 ejercicios intermedios
-- 5 ejercicios avanzados
-- Soluciones incluidas
-- **Duración**: 90 minutos
+👉 **[Comenzar con el LaTeX & Overleaf Toolkit](latex/README.md)**
 
 ---
 
-## 📚 Recursos Adicionales
+## 📚 ¿Qué encontrarás?
 
-Dentro de este repositorio encontrarás:
-
-- **recursos/README.md** - Guía rápida de referencia con:
-  - Sintaxis de Python
-  - Comandos Pandas más usados
-  - Solución de errores comunes
-  - Enlaces a documentación oficial
-
----
-
-## 👥 Para Educadores
-
-Si deseas usar este módulo con tus estudiantes:
-
-1. **Forkea este repositorio** (crea tu propia copia)
-2. **Actualiza los enlaces de Colab** si publicas el contenido en otro repositorio
-3. **Comparte los enlaces de Colab** con tus estudiantes
-4. **Opcional**: Personaliza el README con tu información
+| Material | Objetivo |
+|---|---|
+| [`00_getting_started/`](latex/00_getting_started/) | Compilar tu primer documento LaTeX |
+| [`01_article/`](latex/01_article/) | Crear un artículo científico |
+| [`02_academic_cv/`](latex/02_academic_cv/) | Preparar un CV académico |
+| [`03_cover_letter/`](latex/03_cover_letter/) | Crear una cover letter |
+| [`04_scientific_poster/`](latex/04_scientific_poster/) | Diseñar un póster científico |
+| [`05_collaborative_project/`](latex/05_collaborative_project/) | Organizar un proyecto de escritura colaborativa |
 
 ---
 
-## 📋 Información Técnica
+## 🔄 Workflow recomendado
+
+```text
+GitHub
+   ↓
+Choose a template
+   ↓
+Overleaf
+   ↓
+Compile
+   ↓
+Understand
+   ↓
+Modify
+   ↓
+Create
+   ↓
+Collaborate
+```
+
+La idea central es:
+
+> **No necesitas aprender todo LaTeX antes de utilizarlo. Comienza con un documento que funciona y modifícalo.**
+
+---
+
+## 🧩 ¿Qué aprenderás con LaTeX?
+
+A través de los ejemplos podrás reconocer y utilizar:
+
+- estructura de un documento;
+- títulos y autores;
+- secciones;
+- ecuaciones;
+- tablas;
+- figuras;
+- referencias bibliográficas;
+- BibTeX;
+- organización modular de documentos;
+- escritura colaborativa;
+- documentos académicos reutilizables.
+
+---
+
+## 🤝 Proyecto colaborativo
+
+El ejemplo:
+
+[`latex/05_collaborative_project/`](latex/05_collaborative_project/)
+
+muestra cómo dividir un manuscrito entre diferentes archivos:
+
+```text
+main.tex
+│
+├── sections/
+│   ├── introduction.tex
+│   ├── methods.tex
+│   ├── results.tex
+│   └── discussion.tex
+│
+├── figures/
+└── references.bib
+```
+
+Por ejemplo:
+
+```text
+Researcher A → Introduction
+Researcher B → Methods
+Researcher C → Results
+Researcher D → Discussion
+                       ↓
+                    main.tex
+                       ↓
+                 Scientific Paper
+```
+
+El objetivo no es solamente escribir en LaTeX, sino comprender cómo una estructura clara puede facilitar la **colaboración, documentación y reproducibilidad**.
+
+---
+
+# 🔬 Un principio, diferentes herramientas
+
+No existe una herramienta computacional ideal para todos los problemas de investigación.
+
+| Necesidad | Herramientas posibles |
+|---|---|
+| Explorar datos tabulares | Excel / Google Sheets |
+| Análisis reproducible | Python |
+| Computación interactiva | Google Colab / Jupyter |
+| Visualización | Matplotlib |
+| Documentos académicos | LaTeX / Overleaf |
+| Bibliografía | BibTeX / gestores de referencias |
+| Versionamiento | Git / GitHub |
+| Escritura colaborativa | Overleaf / GitHub |
+| Automatización | Python / scripts |
+| Asistencia computacional | Herramientas de IA |
+
+La pregunta importante no es:
+
+> **¿Qué tecnología debería aprender?**
+
+sino:
+
+> **¿Qué parte de mi investigación podría ser más organizada, eficiente, reproducible o colaborativa utilizando una herramienta apropiada?**
+
+---
+
+# ♻️ Investigación reproducible
+
+Una buena práctica computacional busca conservar el camino entre:
+
+```text
+Research Question
+       ↓
+      Data
+       ↓
+   Processing
+       ↓
+    Analysis
+       ↓
+    Evidence
+       ↓
+ Interpretation
+       ↓
+Scientific Output
+```
+
+Un flujo reproducible debe permitir responder preguntas como:
+
+- ¿De dónde provienen los datos?
+- ¿Qué transformaciones se realizaron?
+- ¿Qué código produjo el resultado?
+- ¿Qué versión se utilizó?
+- ¿Cómo se generó una figura?
+- ¿Podría otra persona repetir el procedimiento?
+- ¿Podría yo mismo reconstruirlo dentro de seis meses?
+
+---
+
+# 📂 Estructura general del repositorio
+
+```text
+trab2026-modulo5/
+│
+├── NoGraded/
+│   └── notebooks y actividades no calificadas
+│
+├── graded/
+│   └── actividades calificadas
+│
+├── data/
+│   └── datos utilizados en las actividades
+│
+├── images/
+│   └── recursos gráficos
+│
+├── recursos/
+│   └── material de referencia
+│
+├── latex/
+│   └── LaTeX & Overleaf Toolkit
+│
+├── COLAB.md
+├── LICENSE
+└── README.md
+```
+
+---
+
+# 🎯 Tres pasos para comenzar con Python
+
+### 1. Abre un notebook
+
+Haz clic en uno de los botones **Open in Colab**.
+
+### 2. Ejecuta las celdas
+
+El notebook se abrirá directamente en Google Colab.
+
+### 3. Guarda tu copia
+
+Si deseas conservar cambios:
+
+**Archivo → Guardar una copia en Drive**
+
+---
+
+# 🎯 Tres pasos para comenzar con LaTeX
+
+### 1. Elige un ejemplo
+
+Entra a:
+
+[`latex/`](latex/)
+
+### 2. Abre el proyecto en Overleaf
+
+Puedes descargar la carpeta correspondiente, comprimirla como `.zip` y utilizar:
+
+**Overleaf → New Project → Upload Project**
+
+### 3. Compila antes de modificar
+
+Presiona:
+
+**Recompile**
+
+Primero verifica que el documento funciona.
+
+Después modifica una pequeña parte y vuelve a compilar.
+
+---
+
+# ❓ Preguntas frecuentes
+
+### ¿Necesito experiencia en programación?
+
+No. El material de Python comienza desde conceptos básicos.
+
+### ¿Necesito instalar Python?
+
+No. Utilizaremos Google Colab.
+
+### ¿Necesito instalar LaTeX?
+
+No. Los ejemplos pueden utilizarse con Overleaf.
+
+### ¿Tengo que aprender Python y LaTeX?
+
+No necesariamente. Son herramientas diferentes para problemas diferentes.
+
+### ¿Puedo descargar los notebooks?
+
+Sí. En Google Colab:
+
+**Archivo → Descargar**
+
+### ¿Puedo modificar las plantillas LaTeX?
+
+Sí. Esa es precisamente la intención del toolkit.
+
+### ¿Puedo usar estos materiales para mi investigación?
+
+Sí. Las plantillas están diseñadas para ser modificadas y reutilizadas.
+
+---
+
+# 📚 Recursos adicionales
+
+## Python y análisis de datos
+
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/stable/api/pyplot_summary.html)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Seaborn](https://seaborn.pydata.org/)
+
+## Material estadístico
+
+- [OpenStax — Introductory Statistics](https://openstax.org/books/introductory-statistics-2e/pages/1-introduction)
+- [OpenIntro Statistics](https://www.openintro.org/book/os/)
+
+## Otros materiales
+
+1. [TCC Educational Resources](https://tcc.uniupo.it/educational-resources)
+2. [Harvard CS109A](https://harvard-iacs.github.io/2019-CS109A/)
+
+---
+
+# 👥 Para educadores
+
+Si deseas reutilizar este material:
+
+1. crea un fork del repositorio;
+2. adapta los notebooks o plantillas;
+3. actualiza los enlaces de Colab si cambia el repositorio;
+4. prueba los notebooks antes de distribuirlos;
+5. prueba los documentos LaTeX en Overleaf;
+6. comparte únicamente materiales destinados a los participantes.
+
+---
+
+# 📋 Información técnica
 
 | Característica | Detalle |
-|--------------|---------|
-| **Lenguaje** | Python 3.7+ |
-| **Plataforma** | Google Colab |
-| **Requisitos** | Navegador + Cuenta Google |
-| **Costo** | Gratuito |
-| **Duración** | 2-3 horas totales |
-| **Público** | Multidisciplinario, sin requisitos previos |
-| **Idioma** | Español |
+|---|---|
+| **Programación** | Python |
+| **Data environment** | Google Colab |
+| **Scientific writing** | LaTeX |
+| **LaTeX environment** | Overleaf |
+| **Version control** | Git / GitHub |
+| **Instalación local** | No requerida para las actividades |
+| **Público** | Multidisciplinario |
+| **Nivel** | Introductorio |
+| **Idioma principal** | Español |
 
 ---
 
-## 🎓 Nivel de Dificultad
+# 🎓 Filosofía del módulo
 
-**Principiante**: No se asume experiencia previa en programación  
-**Progresivo**: Aumenta gradualmente de dificultad  
-**Práctico**: Ejercicios reales de análisis de datos  
-**Inclusivo**: Diseñado para 500+ estudiantes de diferentes disciplinas
+**Principiante** — no se asume experiencia previa en programación o LaTeX.
 
----
+**Interdisciplinario** — las herramientas se presentan como apoyo a diferentes áreas del conocimiento.
 
-## 📢 ¿Necesitas ayuda?
+**Práctico** — se comienza con ejemplos funcionales.
 
-1. Lee el README.md en las carpetas `NoGraded/` y `graded/` (enlaces directos a Colab)
-2. Consulta `recursos/README.md` para guías de referencia
-3. Busca tu error en documentación online
-4. Pregunta a compañeros o al instructor
+**Reproducible** — buscamos documentar cómo se producen los resultados.
+
+**Progresivo** — primero ejecutamos, después modificamos y finalmente construimos.
+
+**Orientado a investigación** — la herramienta está al servicio de la pregunta científica.
 
 ---
 
-## 📝 Licencia
+# 📢 ¿Necesitas ayuda?
 
-Este proyecto está bajo licencia MIT. Eres libre de usar, modificar y distribuir este material para propósitos educativos.
-
----
-
-## 🚀 ¿Listo para comenzar?
-
-**Haz clic en uno de los botones de "Abre en Colab" arriba y ¡empieza ahora!**
-
-No esperes más, el aprendizaje te espera.
+1. Consulta el `README.md` correspondiente al material.
+2. Revisa `COLAB.md` para los notebooks.
+3. Revisa [`latex/README.md`](latex/README.md) para LaTeX y Overleaf.
+4. Consulta la documentación oficial de la herramienta.
+5. Comparte preguntas con el equipo del módulo.
 
 ---
 
-<p style="text-align:center; margin-top: 30px;">
-  <strong>Hecho con ❤️ para educación multidisciplinaria</strong><br>
-  Módulo 5 - Septiembre 2026
-</p>
+# 📝 Licencia
+
+Este proyecto está bajo licencia MIT. Consulta [`LICENSE`](LICENSE) para los términos aplicables.
 
 ---
-## Referencias y material adicional
 
-1. [TCC](https://tcc.uniupo.it/educational-resources)
+# 🚀 ¿Por dónde comenzar?
 
-2. [Repositorio](https://harvard-iacs.github.io/2019-CS109A/)
+Si quieres trabajar con **datos y programación**:
 
-3. [Statistics Book](https://openstax.org/books/introductory-statistics-2e/pages/1-introduction)
+👉 abre uno de los notebooks de la sección **Data Science, Python & Colab**.
 
-4. [Open Intro Book](https://www.openintro.org/book/os/)
+Si quieres trabajar con **documentos académicos**:
 
-5. [Numpy](https://numpy.org/)
+👉 comienza con [`latex/00_getting_started/`](latex/00_getting_started/).
 
-6. [Matplolib](https://matplotlib.org/stable/api/pyplot_summary.html)
+---
 
-7. [Pandas](https://pandas.pydata.org/docs/)
+> **Research problem → Appropriate tool → Reproducible workflow → Scientific output**
 
-8. [Seaborn](https://seaborn.pydata.org/)
-
-
-
+**Módulo 5 · TRAB 2026**
