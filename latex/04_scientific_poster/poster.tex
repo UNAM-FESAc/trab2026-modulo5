@@ -1,0 +1,95 @@
+
+\documentclass[final]{beamer}
+\usepackage{beamerposter}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,booktabs}
+\geometry{paperwidth=46.8in, paperheight=33.1in, margin=1in}
+
+\setbeamertemplate{navigation symbols}{} % delete
+\usepackage{lipsum}% delete
+
+\begin{document}
+
+\begin{frame}[t]
+\begin{center}
+{\Huge\bfseries Computational Tools for Reproducible Research}\\[.4cm]
+{\Large Your Name · Your Institution}\\[4cm]    
+\end{center}
+
+\begin{columns}[t,totalwidth=\textwidth]
+
+    \begin{column}{.31\textwidth}
+    {\LARGE\bfseries Problem}\\[.3cm]
+    Research workflows often combine manual operations and undocumented decisions.
+\vspace{10cm}
+
+    {\LARGE\bfseries Research Question}\\[.3cm]
+    How can a computational workflow improve reproducibility?
+    \vspace{.8cm}
+
+
+    {\LARGE\bfseries Method}\\[.3cm]
+    \begin{enumerate}
+        \item Organize data.
+        \item Document transformations.
+        \item Analyze reproducibly.
+        \item Generate results.
+    \end{enumerate}
+    \lipsum[1-4]
+\end{column}
+
+\begin{column}{.03\textwidth}
+%% Spacer column
+\end{column}
+
+\begin{column}{.31\textwidth}
+{\LARGE\bfseries Evidence}\\[.3cm]
+\begin{center}
+    \fbox{\parbox[c][6in][c]{.8\linewidth}{
+        \centering\Huge DATA\\$\downarrow$\\CODE\\$\downarrow$\\RESULTS
+        }}
+\end{center}
+\lipsum[1-4]
+\begin{table}[ht]\centering
+\begin{tabular}{lcc}
+    \toprule Group&$n$&Mean change\\
+    \midrule 
+    A&42&2.47\\
+    B&42&3.67\\
+    C&42&4.60\\
+\bottomrule\end{tabular}
+\caption{Caption \label{tab:placeholder}}
+\end{table}
+
+\end{column}
+
+\begin{column}{.03\textwidth}
+%% Spacer column
+\end{column}
+%
+    \begin{column}{.31\textwidth}
+    {\LARGE\bfseries Interpretation}\\[.3cm]
+    Computational tools make analytical decisions easier to inspect and repeat.
+    \vspace{.8cm}
+    
+    {\LARGE\bfseries Limitation}\\[.3cm]
+    Reproducible code does not guarantee valid scientific reasoning.
+    \vspace{.8cm}
+    
+    {\LARGE\bfseries Take-home Message}\\[.3cm]
+    Reproducibility is a property of the research workflow, not of a single file.
+    \lipsum[1-4]
+    \begin{center}
+    \fbox{\parbox[c][6in][c]{.8\linewidth}{
+        \centering\Huge 
+        DATA\\$\downarrow$\\
+        CODE\\$\downarrow$\\
+        RESULTS
+        }}
+\end{center}
+    \end{column}
+\end{columns}
+\end{frame}
+
+\end{document}

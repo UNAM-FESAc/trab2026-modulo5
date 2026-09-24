@@ -1,0 +1,55 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,booktabs,graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\title{A Reproducible Computational Research Example}
+\author{First Author \and Second Author}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+This example illustrates a reusable scientific article structure in LaTeX.
+\end{abstract}
+
+\section{Introduction}
+Computational workflows can improve research transparency and reproducibility \cite{wilson2014best}.
+
+\section{Methods}
+Define observed change as
+\begin{equation}
+\Delta_i=y_i^{(\mathrm{after})}-y_i^{(\mathrm{before})}.
+\end{equation}
+
+\section{Results}
+
+\begin{table}[ht]
+\centering
+\caption{Illustrative results by group.}
+\begin{tabular}{lcc}\toprule
+Group & Sample size & Mean change\\\midrule
+A&42&2.47\\ B&42&3.67\\ C&42&4.60\\\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[ht]
+\centering
+\fbox{\parbox[c][1.2in][c]{0.78\textwidth}{\centering
+Research Question $\rightarrow$ Data $\rightarrow$ Analysis $\rightarrow$ Evidence $\rightarrow$ Communication}}
+\caption{Simplified reproducible research workflow.}
+\end{figure}
+
+\section{Discussion}
+A documented path from question to evidence supports reproducibility.
+
+\section{Conclusion}
+LaTeX helps maintain consistent scientific documents as content evolves.
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
