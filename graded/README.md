@@ -8,8 +8,7 @@ Estas actividades se abren en Google Colab. Después de abrir una actividad, usa
 |---|---|---|
 | `01_activity.ipynb` | Carga y resumen de datos | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/01_activity.ipynb) |
 | `02_exploracion.ipynb` | Exploración básica de participantes | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/02_exploracion.ipynb) |
-| `03_relaciones.ipynb` | Cambio y comparación entre grupos | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/03_relaciones.ipynb) |
-| `04_relaciones.ipynb` | Matriz de correlación de Pearson | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/04_relaciones.ipynb) |
+
 
 ## Flujo recomendado
 
