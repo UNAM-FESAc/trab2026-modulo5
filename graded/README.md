@@ -7,7 +7,8 @@ Estas actividades se abren en Google Colab. Después de abrir una actividad, usa
 | Actividad | Descripción | Colab |
 |---|---|---|
 | `01_activity.ipynb` | Carga y resumen de datos | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/01_activity.ipynb) |
-| `02_exploracion.ipynb` | Exploración básica de participantes | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/02_exploracion.ipynb) |
+
+<!-- | `02_exploracion.ipynb` | Exploración básica de participantes | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNAM-FESAc/trab2026-modulo5/blob/main/graded/02_exploracion.ipynb) | -->
 
 
 ## Flujo recomendado
